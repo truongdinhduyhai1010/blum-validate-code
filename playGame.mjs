@@ -266,7 +266,7 @@ async function r(n) {
                 }))
             };
         try {
-            const t = Math[I(296)](91 * Math[I(289)]()) + 160,
+            const t = Math[I(296)](91 * Math[I(289)]()) + 230,
                 r = {
                     method: I(285),
                     payload: n
